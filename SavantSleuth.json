@@ -149,6 +149,10 @@
 				"Ability Score Improvement|The Savant|savant|8",
 				"Expert Educator|The Savant|savant|9",
 				"Unyielding Mind Improvement|The Savant|savant|10",
+                {
+					"classFeature": "Academic Discipline Feature|The Savant|savant|10",
+					"gainSubclassFeature": true
+				},
 				"Flawless Observation|The Savant|savant|11",
 				"Ability Score Improvement|The Savant|savant|12",
 				{
@@ -355,7 +359,7 @@
 			"level": 2,
 			"entries": [
 				"Your ability to learn and retain new skills and languages is beyond compare. Starting at 2nd level, each time you finish a long rest, you can choose to learn one additional language, or gain proficiency with one tool, skill, or weapon of your choice, as long as there is an example for you to learn from (such as a willing teacher with that proficiency, a manual, or a book in a different language). You can only gain one proficiency or language from this feature per long rest.",
-				"You can learn a total number of additional languages and proficiencies through this feature equal to your Intelligence modifier (minimum of 1 language or proficiency). When you choose to learn another language or proficiency while you are at maximum, you must choose one language or proficiency you learned through this feature to forget, at which point you immediately lose any knowledge of it.",
+				"You can learn a total number of additional languages and proficiencies through this feature equal to your Intelligence modifier (minimum of 1 language or proficiency), though skill proficiencies gained through this feature count for two. When you choose to learn another language or proficiency while you are at maximum, you must choose one language or proficiency you learned through this feature to forget, at which point you immediately lose any knowledge of it.",
                 "When you reach 7th level in this class, you can learn a new language or proficiency at the end of each short or long rest."
 			]
 		},
@@ -397,8 +401,8 @@
 			"classSource": "savant",
 			"level": 5,
 			"entries": [
-				"Starting when you reach 5th level, your observational skills allow you to highlight your foe's weak points for yourself and your allies. When you or a friendly creature you can see that can see or hear you hits your Adroit Analysis marked target with an attack, you can use your reaction to increase the damage of the attack by 1d10.",
-                "Starting at 11th level, the bonus damage you add with this reaction becomes 2d6."
+				"Starting when you reach 5th level, your observational skills allow you to highlight your foe's weak points for yourself and your allies. When you (or a friendly creature within 120 feet, if you can both see or hear each other) hits your Adroit Analysis marked target with an attack, you can use your reaction to increase the damage of the attack by 1d10.",
+                "Starting at 11th level, the bonus damage you add with this reaction becomes 2d6 plus your Intelligence modifier."
 			]
 		},
 		{
@@ -418,7 +422,7 @@
 			"classSource": "savant",
 			"level": 7,
 			"entries": [
-				"Your mind can react to danger at a moments notice. Starting at 7th level, you gain a bonus to your initiative rolls equal to your Intelligence modifier (minimum of +1), and you cannot be surprised unless you are asleep or incapacitated."
+				"Your mind can react to danger at a moments notice. Starting at 7th level, you gain a bonus to your initiative rolls equal to your Intelligence modifier (minimum of +1), and you cannot be surprised unless you are incapacitated."
 			] 
         },
 		{
@@ -439,7 +443,7 @@
 			"classSource": "savant",
 			"level": 9,
 			"entries": [
-				"Your ability to educate others is peerless. Beginning at 9th level, when you finish a long rest, choose a number of willing creatures equal to your Intelligence modifier (minimum of 1), and one tool, skill, or weapon proficiency, or one language you know. The chosen creatures gain that proficiency or learn that language until the end of your next long rest.",
+				"Your ability to educate others is peerless. Beginning at 9th level, when you finish a long rest, choose a number of willing creatures equal to your Intelligence modifier (minimum of 1), and one tool, skill, or weapon proficiency you have, or one language you know. The chosen creatures gain that proficiency or learn that language until the end of your next long rest.",
 				"The proficiency or language you choose to teach with this feature can be one that you've acquired from Expert Student."
 			]
 		},
@@ -460,8 +464,7 @@
 			"classSource": "savant",
 			"level": 11,
 			"entries": [
-				"Starting at 11th level, you can use your Potent Observation reaction when a friendly creature hits another creature with a weapon attack, even if the target is not marked by Adroit Analysis. You must be able to see both creatures.",
-                "Also, when you use Potent Observation when a creature hits the target of your Adroit Analysis with an attack you add your Intelligence modifier (minimum of +1) to the damage."
+				"Starting at 11th level, when you (or a friendly creature within 120 feet, if you can both see or hear each other) hit another creature you can see with an attack, you can use your reaction to increase the damage of the attack by 2d6."
 			]
 		},
 		{
@@ -492,7 +495,7 @@
 			"classSource": "savant",
 			"level": 14,
 			"entries": [
-				"It is incredibly hard for your foes to mentally dominate you. Starting at 14th level, when you are forced to make a saving throw to resist being charmed, frightened, or stunned, you can expend a use of Unyielding Mind to automatically succeed."
+				"It is incredibly hard for your foes to dominate you. Starting at 14th level, you have advantage on saving throws to resist being charmed, frightened, or stunned. If you fail such a saving throw, you can expend two uses of Unyielding Mind to roll one more d20 and add a single Unyielding Mind die to the result. You must use the new roll."
 			]
 		},
 		{
@@ -588,7 +591,7 @@
 			"subclassSource": "savant",
 			"level": 3,
 			"entries": [
-				"Your keen observational skills allow you to discern fact from falsehood. When you adopt this Academic Discipline at 3rd level, you gain proficiency in Insight, Investigation, and Perception, and your proficiency bonus is doubled for any ability check you make that uses any of these proficiencies. If you already have proficiency in any of these skills, you gain proficiency with that many other skills of your choice from the savant skill list."
+				"Your keen observational skills allow you to discern fact from falsehood. When you adopt this Academic Discipline at 3rd level, you gain proficiency in Insight, Investigation, and Perception, and your proficiency bonus is doubled for any ability check you make that uses any of these proficiencies."
 			]
 		},
         {
@@ -652,6 +655,18 @@
                 }
 			]
 		},
+        {
+			"name": "Adaptive Intellect",
+			"source": "savant",
+			"className": "The Savant",
+			"classSource": "savant",
+			"subclassShortName": "Sleuth",
+			"subclassSource": "savant",
+			"level": 10,
+			"entries": [
+				"Starting at 10th level, once you finish a long rest in an area (a given settlement, forest, mountain range, etc.), you have advantage on any Intelligence check you make related to that area or its inhabitants. This benefit lasts until you finish a long rest in a different area."
+			]
+		},
 		{
 			"name": "Peerless Focus",
 			"source": "savant",
@@ -665,9 +680,9 @@
 				{
 					"type": "list",
 					"items": [
-						"When you make an Intelligence (Investigation), Wisdom (Insight), or Wisdom (Perception) check, you can treat a roll of 9 or lower as a 10.",
-						"You can add Intelligence modifier to Insight and Perception checks, and can add your Wisdom modifier to Investigation checks.",
-						"You passively detect and see through illusions within 60' if your bonus for Investigation checks is equal to or higher than the DC to perceive the illusion. When you use your action to investigate an illusion within 60', the DC to see through that illusion is reduced by 5. The range of this feature increases to 150' at 17th level."
+						"When you expend a use of Unyielding Mind while making an Intelligence (Investigation), Wisdom (Insight), or Wisdom (Perception) check, you can maximize your Unyielding Mind die.",
+						"You can add your Intelligence modifier to Insight and Perception checks, and can add your Wisdom modifier to Investigation checks.",
+						"You passively detect and see through illusions within 60 feet if your bonus for Investigation checks is equal to or higher than the DC to perceive the illusion. When you use your action to investigate an illusion within 60 feet, the DC to see through that illusion is reduced by 5. The range of this feature increases to 120 feet at 17th level."
 					]
 				}
 			]
@@ -681,9 +696,9 @@
 			"subclassSource": "savant",
 			"level": 17,
 			"entries": [
-				"Your insight into the weak points of your foes allows you and your allies to exploit them with ruthless efficiency. Beginning at 17th level, when you, or a creature that you can see, hits the target of your Adroit Analysis with a weapon attack, you can use to your reaction to turn the attack into a critical hit.",
+				"Your insight into the weak points of your foes allows you and your allies to exploit them with ruthless efficiency. Beginning at 17th level, when you (or a friendly creature within 120 feet, if you can both see or hear each other) hit the target of your Adroit Analysis with a weapon attack, you can use your reaction to turn the attack into a critical hit.",
 				"Once you use this reaction, you must complete a short or long rest before you can use it again.",
-                "Furthermore, your mastery over reading the intent of other creatures offers you unrivalled introspection. You automatically succed on Intelligence and Wisdom saving throws if the DC for the save is less than your bonus for Investigation checks."
+                "Furthermore, your mastery over reading the intent of other creatures offers you unrivalled introspection. You automatically succed on Intelligence and Wisdom saving throws if your bonus for Investigation checks is at least 5 greater than the DC for the save."
 			]
 		}
 	]
