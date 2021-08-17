@@ -680,9 +680,9 @@
 				{
 					"type": "list",
 					"items": [
-						"When you expend a use of Unyielding Mind while making an Intelligence (Investigation), Wisdom (Insight), or Wisdom (Perception) check, you can maximize your Unyielding Mind die.",
+						"When you expend a use of Unyielding Mind while making an Insight, Investigation, or Perception check, you can maximize your Unyielding Mind die.",
 						"You can add your Intelligence modifier to Insight and Perception checks, and can add your Wisdom modifier to Investigation checks.",
-						"You passively detect and see through illusions within 60 feet if your bonus for Investigation checks is equal to or higher than the DC to perceive the illusion. When you use your action to investigate an illusion within 60 feet, the DC to see through that illusion is reduced by 5. The range of this feature increases to 120 feet at 17th level."
+						"You passively detect illusions within 60 feet if your bonus for Investigation checks is equal to or higher than the DC to perceive the illusion. When you use your action to investigate an illusion within 60 feet, the DC to detect that illusion is reduced by 5. The range of this feature increases to 120 feet at 17th level."
 					]
 				}
 			]
