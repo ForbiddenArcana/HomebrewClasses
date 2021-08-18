@@ -401,7 +401,7 @@
 			"classSource": "savant",
 			"level": 5,
 			"entries": [
-				"Starting when you reach 5th level, your observational skills allow you to highlight your foe's weak points for yourself and your allies. When you (or a friendly creature within 120 feet, if you can both see or hear each other) hits your Adroit Analysis marked target with an attack, you can use your reaction to increase the damage of the attack by 1d10.",
+				"Starting when you reach 5th level, your observational skills allow you to highlight your foe's weak points for yourself and your allies. When you (or a friendly creature, if you can both see or hear each other) hits your Adroit Analysis marked target with an attack, you can use your reaction to increase the damage of the attack by 1d10.",
                 "Starting at 11th level, the bonus damage you add with this reaction becomes 2d6 plus your Intelligence modifier."
 			]
 		},
@@ -464,7 +464,7 @@
 			"classSource": "savant",
 			"level": 11,
 			"entries": [
-				"Starting at 11th level, when you (or a friendly creature within 120 feet, if you can both see or hear each other) hit another creature you can see with an attack, you can use your reaction to increase the damage of the attack by 2d6."
+				"Starting at 11th level, when you (or a friendly creature, if you can both see or hear each other) hit another creature you can see with an attack, you can use your reaction to increase the damage of the attack by 2d6."
 			]
 		},
 		{
@@ -696,7 +696,7 @@
 			"subclassSource": "savant",
 			"level": 17,
 			"entries": [
-				"Your insight into the weak points of your foes allows you and your allies to exploit them with ruthless efficiency. Beginning at 17th level, when you (or a friendly creature within 120 feet, if you can both see or hear each other) hit the target of your Adroit Analysis with a weapon attack, you can use your reaction to turn the attack into a critical hit.",
+				"Your insight into the weak points of your foes allows you and your allies to exploit them with ruthless efficiency. Beginning at 17th level, when you (or a friendly creature, if you can both see or hear each other) hit the target of your Adroit Analysis with a weapon attack, you can use your reaction to turn the attack into a critical hit.",
 				"Once you use this reaction, you must complete a short or long rest before you can use it again.",
                 "Furthermore, your mastery over reading the intent of other creatures offers you unrivalled introspection. You automatically succed on Intelligence and Wisdom saving throws if your bonus for Investigation checks is at least 5 greater than the DC for the save."
 			]
