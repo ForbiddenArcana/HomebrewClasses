@@ -614,7 +614,7 @@
                             "type": "list",
                             "items": [
                                 "its alignment",
-                                "whether its current form is its true form",
+                                "whether it's in its true unconcealed form",
                                 "its current hit point total and temp HP total"
                             ]
                         }
