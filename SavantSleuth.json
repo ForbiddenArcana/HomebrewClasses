@@ -190,15 +190,15 @@
 			"fluff": [
 				{
 					"entries": [
-						"The slender elf cleans his glasses with the corner of his cloak as the dust settles around him. He was the first living thing to set foot in the ancient temple in hundreds of years. His benefactor had paid him a great deal to find this place, and after months of pouring over forgotten tomes he had finally figured out it's long-lost location. Now, he had a choice to make, would he report back to his benefactor allowing them to strip the temple of it's valuables? Or, would he keep the location hidden, and preserve the priceless information found here himself? To a Savant, knowledge is more precious than gold coins.",
-						"The elderly warrior assessed the state of his men, they were exhausted and almost out of supplies. This was the tenth day of the siege, and the warrior knew that at this point no reinforcements were coming to relieve them. He was too old to be of use in battle, but if his men followed his orders to the letter, and without hesitation, they just might have a fighting chance. He stood up, and for what could be the last time, drew his sword.",
-						"A young dwarf bends over his unconscious comrade in the midst of battle, his hands shaking as he examined the unconscious soldier's wounds. The elders of his clan had spent a great deal of their fortune to send him to the best university gold could buy. All those hours spent in lectures, libraries, and observation; all for this moment. He thought back to what he had learned about field medicine from his professors and began to dress the soldier's wounds.",
+						"The slender elf cleans his glasses with the corner of his cloak as the dust settles around him. He was the first living thing to set foot in the ancient temple in hundreds of years. His benefactor had paid him a great deal to find this place, and after months of poring over forgotten tomes he had finally figured out its long-lost location. Now, he had a choice to make: would he report back to his benefactor, allowing them to strip the temple of its valuables? Or would he keep the location hidden, and preserve the priceless information found here himself? To a Savant, knowledge is more precious than gold coins.",
+						"The elderly warrior assesses the state of his men; they were exhausted, and almost out of supplies. This was the tenth day of the siege, and the warrior knew that at this point no reinforcements were coming to relieve them. He was too old to be of use in battle, but if his men followed his orders to the letter and without hesitation, they just might have a fighting chance. He stands up, and for what could be the last time, draws his sword.",
+						"A young dwarf bends over his unconscious comrade in the midst of battle, his hands steady as he examines the unconscious soldier's wounds. The elders of his clan had spent a great deal of their fortune to send him to the best university gold could buy. All those hours spent in lectures, libraries, and observation; all for this moment. He thinks back to what he had learned about field medicine from his professors; he begins to dress the soldier's wounds.",
 						{
 							"type": "entries",
 							"name": "Great Minds",
 							"entries": [
-								"There are many intelligent people in the world, but few are true Savants. Born with with an innate desire to learn all they can, and the potential for a genius level intellect, they spend their lives studying anything that those around them are willing to teach them. Savants are often recognized at an early age, and in their hunger for knowledge, they are drawn to great libraries, universities, and other places of higher learning. They will do anything to access the troves of knowledge that lie hidden in the forgotten places of the world, for Savants, no price is too steep to pay for a new discovery.",
-								"Despite their aptitude for learning, most Savants seek to better themselves without having to rely on outside influences. Savants reject the patronage of gods and other powerful beings, and in turn they view wizardry as a shortcut to power for the weak willed. Relying on their intellect alone, they strive for perfection."
+								"There are many intelligent people in the world, but few are true Savants. Born with with an innate desire to learn all they can, and the potential for a genius level intellect, they spend their lives studying anything that those around them are willing to teach them. Savants are often recognized at an early age, and in their hunger for knowledge, they are drawn to great libraries, universities, and other places of higher learning. They will do anything to access the troves of knowledge that lie hidden in the forgotten places of the world; for Savants, no price is too steep to pay for a new discovery.",
+								"Despite their aptitude for learning, most Savants seek to better themselves without having to rely on outside influences. Savants reject the patronage of gods and other powerful beings, and in turn they view wizardry as a shortcut to power for the weak-willed. Relying on their intellect alone, they strive for perfection."
 							]
 						},
 						{
@@ -206,14 +206,14 @@
 							"name": "Intense Focus",
 							"entries": [
 								"Savants tend to hyper-focus on their chosen area of expertise. They obsess over it, learning all they can about the subject. Once they reach the climax of learning in that specialty, and there is nothing anyone else can teach them, they do not move on. Instead they will go to great lengths, risking life and limb, to advance their chosen field of study.",
-								"Often doing so at great cost to themselves, Savants will not stop researching, experimenting, and theorizing until they have made an indelible mark on their academic discipline. A Savant's ultimate goal in life is to discover some previously unknown truth about the universe."
+								"Often at great cost to themselves, Savants will not stop researching, experimenting, and theorizing until they have made an indelible mark on their academic discipline. A Savant's ultimate goal in life is to discover some previously unknown truth about the universe."
 							]
 						},
 						{
 							"type": "entries",
 							"name": "Creating a Savant",
 							"entries": [
-								"When creating your Savant consider their upbringing and level of formal education. Where they the star pupil of the kingdom's university? Or did they come from nothing, fighting for any scrap of knowledge they could get their hands on? Were they naturally intelligent, but unable to use their abilities because of obligations to family?",
+								"When creating your Savant, consider their upbringing and level of formal education. Were they the star pupil of the kingdom's university? Or did they come from nothing, fighting for any scrap of knowledge they could get their hands on? Were they naturally intelligent, but unable to use their abilities because of obligations to family?",
 								"Whatever their origins, consider why they became an adventurer rather than an academic. Did they learn all they could from the dusty tomes in the library, and now they seek to discover forgotten temples and the knowledge within? Have they advanced beyond study and look to the endless discoveries of a life of adventure?"
 							]
 						},
@@ -272,13 +272,13 @@
 									"type": "entries",
 									"name": "Sleuth",
 									"entries": [
-										"In every society there are those that look to deceive, swindle, and take advantage of the trust of others. Thieves Guilds that run racketeering schemes, monsters that change their appearance to deceive the innocent, and those who abuse their legitimate authority to extort those who follow the law. Standing in their way is the archetypal Sleuth, those who bend their considerable intellect to uncover the truth.",
-										"As a Sleuth, you excel at rooting out secrets and unraveling mysteries. You rely on your sharp eye for detail, but also on your finely honed ability to read the words and deeds of other creatures to determine their true intent. You excel at defeating creatures that hide among and prey upon ordinary folk, and your mastery of lore and your sharp eye make you well equipped to expose and end hidden evils.",
+										"In every society there are those that look to deceive, swindle, and take advantage of the trust of others. Thieves' Guilds that run racketeering schemes, monsters that change their appearance to deceive the innocent, and those who abuse their legitimate authority to extort those who follow the law. Standing in their way is the archetypal Sleuth, those who bend their considerable intellect to uncover the truth.",
+										"As a Sleuth, you excel in rooting out secrets and unraveling mysteries. You rely on your sharp eye for detail, but also on your finely honed ability to read the words and deeds of other creatures to determine their true intent. You excel at defeating creatures that hide among and prey upon ordinary folk, and your mastery of lore and your sharp eye make you well equipped to expose and end hidden evils.",
 										{
 											"type": "inset",
 											"name": "Seekers of Knowledge",
 											"entries": [
-												"Almost every official class in Dungeons & Dragons 5th edition has a subclass who's themes reinforce the base identity of the class. The Champion fighter, the Oath of Devotion paladin, and the Life Domain cleric are some examples. For the savant, the Seeker serves this role, improving the potency of the base class abilities without adding too much complexity."
+												"Almost every official class in Dungeons & Dragons 5th edition has a subclass whose themes reinforce the base identity of the class. The Champion fighter, the Oath of Devotion paladin, and the Life Domain cleric are some examples. For the Savant, the Sleuth serves this role, improving the potency of the base class abilities without adding too much complexity."
 											]
 										}
 									]
